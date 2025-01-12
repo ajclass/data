@@ -1,0 +1,2 @@
+cn340/data.tgz filter=lfs diff=lfs merge=lfs -text
+cn340/hw3.tgz filter=lfs diff=lfs merge=lfs -text
